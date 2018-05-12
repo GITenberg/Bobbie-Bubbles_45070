@@ -1,0 +1,28 @@
+_repo: Bobbie-Bubbles_45070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Budlong, Maud Gridley
+    gutenberg_agent_id: '43066'
+    url: http://www.gutenberg.org/2009/agents/43066
+  - agent_name: Sherwood, E. Hugh
+    gutenberg_agent_id: '43065'
+    url: http://www.gutenberg.org/2009/agents/43065
+description: Illustrated by E. Hugh Sherwood.
+gutenberg_issued: '2014-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Soap bubbles -- Juvenile fiction'
+title: Bobbie Bubbles
+url: http://www.gutenberg.org/ebooks/45070
